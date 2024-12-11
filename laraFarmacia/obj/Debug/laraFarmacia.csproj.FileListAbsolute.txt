@@ -1,0 +1,10 @@
+C:\Users\alexi\Desktop\Progra\laraFarmacia\laraFarmacia\obj\Debug\laraFarmacia.csproj.AssemblyReference.cache
+C:\Users\alexi\Desktop\Progra\laraFarmacia\laraFarmacia\obj\Debug\laraFarmacia.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\Progra\laraFarmacia\laraFarmacia\bin\Debug\laraFarmacia.exe.config
+C:\Users\alexi\Desktop\Progra\laraFarmacia\laraFarmacia\bin\Debug\laraFarmacia.exe
+C:\Users\alexi\Desktop\Progra\laraFarmacia\laraFarmacia\bin\Debug\laraFarmacia.pdb
+C:\Users\alexi\Desktop\Progra\laraFarmacia\laraFarmacia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alexi\Desktop\Progra\laraFarmacia\laraFarmacia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alexi\Desktop\Progra\laraFarmacia\laraFarmacia\obj\Debug\laraFarmacia.csproj.CopyComplete
+C:\Users\alexi\Desktop\Progra\laraFarmacia\laraFarmacia\obj\Debug\laraFarmacia.exe
+C:\Users\alexi\Desktop\Progra\laraFarmacia\laraFarmacia\obj\Debug\laraFarmacia.pdb
